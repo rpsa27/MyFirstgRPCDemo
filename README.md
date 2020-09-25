@@ -18,6 +18,8 @@ capture traffic with wireshark: https://bkubiak.github.io/grpc-raw-requests/
 
 grpc-java-examples: https://github.com/saturnism/grpc-by-example-java
 
+add the env variable GRPC_PROXY_EXP, value: 127.0.0.1:8083 (host:port) format
+
 
 
 
